@@ -1,0 +1,49 @@
+{
+  "entries": [
+    {
+      "id": "day_intro",
+      "lines": [
+        { "speaker": "MC", "portrait": "portrait_mc", "text": "Another cramped day shift. Everyone on this floor is whispering about the basement again." },
+        { "speaker": "Best Friend", "portrait": "portrait_bestfriend", "text": "Don't go down there. I barely slept last night—just finish your stack and head home." }
+      ]
+    },
+    {
+      "id": "clue_newspaper",
+      "lines": [
+        { "speaker": "Clipping", "portrait": "portrait_clue", "text": "Archived article: Couple executed for the murder of the Governor's wife. Their orphaned son had no deed in his name." }
+      ]
+    },
+    {
+      "id": "clue_permit",
+      "lines": [
+        { "speaker": "Permit", "portrait": "portrait_clue", "text": "Demolition order approved by the Governor's office. Tower foundation poured directly over the demolished childhood home." }
+      ]
+    },
+    {
+      "id": "clue_memo",
+      "lines": [
+        { "speaker": "Memo", "portrait": "portrait_clue", "text": "Night maintenance reports organic residue near the sub-basement brickwork. Floor sealed after 7:00 PM." }
+      ]
+    },
+    {
+      "id": "clue_badge",
+      "lines": [
+        { "speaker": "MC", "portrait": "portrait_mc", "text": "That's one of our group's ID cards—cracked and covered in dark slime near the service elevator." }
+      ]
+    },
+    {
+      "id": "basement_reveal",
+      "lines": [
+        { "speaker": "Survivor", "portrait": "portrait_survivor", "text": "Wait—look at the torn collar tangled in those tentacles. That's him." },
+        { "speaker": "MC", "portrait": "portrait_mc", "text": "Get to the stairwell! I'll pull the manual lock from inside—just hold it off until the 6:00 AM shift change!" }
+      ]
+    },
+    {
+      "id": "ending_sunrise",
+      "lines": [
+        { "speaker": "6:00 AM", "portrait": "portrait_none", "text": "The morning shift bell cuts through the stairwell as sunlight breaks the basement curse." },
+        { "speaker": "Best Friend", "portrait": "portrait_bestfriend", "text": "No... what did I do? All of you... I couldn't wake up." }
+      ]
+    }
+  ]
+}
